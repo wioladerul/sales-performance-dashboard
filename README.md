@@ -50,10 +50,10 @@ DAX measures were created to summarize the main business metrics used in the rep
 - Total Quantity: Total quantity of products sold
 
 The following DAX measures were used:
-Total Sales = SUM('Sample - Superstore'[Sales])
-Total Profit = SUM('Sample - Superstore'[Profit])
-Profit Margin = DIVIDE(SUM('Sample - Superstore'[Profit]), SUM('Sample - Superstore'[Sales]), 0)
-Total Orders = DISTINCTCOUNT('Sample - Superstore'[Order ID])
-Total Quantity = SUM('Sample - Superstore'[Quantity])
+- Total Sales = SUM('Sample - Superstore'[Sales])
+- Total Profit = SUM('Sample - Superstore'[Profit])
+- Profit Margin = DIVIDE(SUM('Sample - Superstore'[Profit]), SUM('Sample - Superstore'[Sales]), 0)
+- Total Orders = DISTINCTCOUNT('Sample - Superstore'[Order ID])
+- Total Quantity = SUM('Sample - Superstore'[Quantity])
 
 # Dashboard Preview
