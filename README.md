@@ -41,7 +41,6 @@ The preparation process includes:
 3. Checking that Sales, Profit, Quantity, and Discount use appropriate numeric data types.
 4. Reviewing missing values and potential data-quality issues.
 5. Creating DAX measures for the dashboard
-6. Creating DAX measures for the dashboard metrics
 
 DAX measures were created to summarize the main business metrics used in the report.
 - Total Sales: Total sales revenue
