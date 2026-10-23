@@ -57,3 +57,4 @@ The following DAX measures were used:
 - Total Quantity = SUM('Sample - Superstore'[Quantity])
 
 # Dashboard Preview
+![Superstore Sales Dashboard](Superstore%20Sales%20Dashboard.jpg)
