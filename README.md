@@ -58,3 +58,19 @@ The following DAX measures were used:
 
 # Dashboard Preview
 ![Superstore Sales Dashboard](Superstore%20Sales%20Dashboard.jpg)
+
+# Dashboard Component
+The dashboard includes the following visualizations:
+1. Key Business Metrics: Displays Total Sales, Total Profit, Profit Margin, Total Orders, and Total Quantity.
+2. Monthly Sales and Profit Trend: Shows changes in sales and profit over time.
+3. Profitability by State: Compares Total Sales, Total Profit, and Profit Margin across states.
+4. Sales Distribution by Category: Shows the contribution of each product category to total sales.
+5. Sales Distribution by Segment: Compares sales across customer segments.
+6. Sales by Sub-Category: Compares sales values across product sub-categories.
+7. Profit by Sub-Category: Compares profit across product sub-categories.
+
+# Interactive Filters
+The dashboard includes three filters:
+- Year: Filters the report by year.
+- Region: Filters the report by geographical region.
+- Category: Filters the report by product category.
