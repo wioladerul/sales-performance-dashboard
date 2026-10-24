@@ -78,9 +78,7 @@ The dashboard includes three filters:
 
 # Key Insights
 1. Monthly sales from 2014 to 2017 fluctuated throughout the year, with significant increases in March and September, followed by declines in April and October. Sales remained relatively stable from May to August before increasing significantly in September. After declining in October, sales rose sharply in November, reaching the highest value of approximately $352.46K. In December, sales decreased to approximately $325.29K, but remained relatively high compared with most other months.
-
 Profit followed a broadly similar pattern. The highest monthly profit was recorded in December at approximately $43.37K, while the lowest occurred in January at approximately $9.13K. Profit increased significantly in March and September, although fluctuations occurred in several other months.
-
 Overall, sales and profit generally moved in the same direction. However, their movements were not always proportional. This is evident in November, when sales reached their highest level, but profit was lower than in December. Conversely, December recorded the highest profit of $43.37K, despite having lower sales than November. These findings indicate that the month with the highest sales does not necessarily generate the highest profit.
 
 2. Technology generated the highest sales among the three product categories, contributing approximately $836.15K, or 36.4% of total sales. This makes Technology the largest category by sales contribution in the analyzed dataset. The result indicates that Technology plays an important role in overall sales performance.
@@ -88,9 +86,7 @@ Overall, sales and profit generally moved in the same direction. However, their 
 3. The Consumer segment generated approximately $1,161.40K in sales, accounting for 50.56% of total sales. This makes Consumer the largest contributor to sales compared with the Corporate and Home Office segments. The result shows that more than half of the recorded sales came from Consumer customers. Therefore, this segment represents an important part of the sales distribution in the dataset.
 
 4. The Phones sub-category generated the highest sales, amounting to $330,007.05K, while Copiers recorded the highest profit at $55,617.82K. In contrast, Tables recorded the lowest profit, with a loss of $17,725.48K. Additionally, Bookcases and Supplies also incurred losses of $3,472.56K and $1,189.10K, respectively.
-
 These findings show that the sub-category with the highest sales does not necessarily generate the highest profit. Phones led in sales, while Copiers generated the highest profit. Meanwhile, Tables experienced the largest loss, highlighting differences in profitability across product sub-categories.
 
 5. California recorded the highest total sales at $457,687.63K and the highest total profit at $76,381.39K, making it the leading state in terms of sales and profit. Meanwhile, District of Columbia achieved the highest profit margin at 36.98%, with total sales of $2,865.02K and total profit of $1,095.59K.
-
 These findings indicate that the state with the highest sales and total profit does not necessarily have the highest profit margin. Although California generated the largest sales and profit, District of Columbia achieved a higher profit margin, indicating a greater proportion of profit relative to sales.
