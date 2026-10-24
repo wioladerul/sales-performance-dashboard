@@ -22,6 +22,7 @@ This analysis aims to answer the following business questions:
 3. Which customer segments contribute the most to total sales?
 4. Which product sub-categories generate the highest sales and profit, and which generate the lowest profit?
 5. How do total sales, total profit, and profit margin differ across states?
+
 These questions provide a structure for exploring the dataset and identifying patterns that may be relevant to business performance.
 
 # Dataset
